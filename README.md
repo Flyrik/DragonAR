@@ -70,6 +70,5 @@ Place the Dragon on the left side of the camera
 
 
 
-https://github.com/user-attachments/assets/f22fbe04-d91a-435a-a31b-6072cd1b3c8b
 
 
